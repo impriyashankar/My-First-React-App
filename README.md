@@ -28,7 +28,7 @@ The project was created as a first step to understanding the basics of React lib
 
 ## Acknowledgements
 
-- This project was based on [Udemy's](https://www.udemy.com/course/build-your-first-react-js-application/) React foundational course..
+- This project was based on [Udemy's](https://www.udemy.com/course/build-your-first-react-js-application/) React foundational course.
 
 ## Available Scripts
 
