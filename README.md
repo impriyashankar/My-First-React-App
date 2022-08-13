@@ -2,6 +2,34 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+> A mobile-first, repsonsive React Single Page Application that simulates an ecommerce application.
+
+
+## General Information
+The project was created as a first step to understanding the basics of React library. I undertook the course in Udemy and tried to replicate the app creation that the instructor walks us through. It is a simple app which simulates an ecommerce store with product collections on the home page and clicking on each product leading to pages displaying specific and more info about that product. 
+
+
+
+## Features
+
+- Mobile menu that slides in and out -> animated using Tailwind.css
+- Multiple pages  -> implemented using React router
+- Individual product pages -> with info by fetching data from API using Axios. 
+- Display of loading symbol while data is loading in the app -> CSS loader for HTTP requests and handling errors on failed requests.
+
+
+## Screenshots
+![Screenshot 2022-08-13 at 8 38 37 AM](https://user-images.githubusercontent.com/20161096/184472083-1bf34979-20f8-4540-be11-897897c771b8.png)<br>
+![Screenshot 2022-08-13 at 8 37 56 AM](https://user-images.githubusercontent.com/20161096/184472127-3cfdf157-f205-41fd-8d83-65339ca988c2.png)
+
+<!-- If you have screenshots you'd like to share, include them here. -->
+![Screenshot 2022-08-13 at 8 37 35 AM](https://user-images.githubusercontent.com/20161096/184472077-995c04f8-852f-46fe-bc29-b4ca88d16e44.png)
+
+
+## Acknowledgements
+
+- This project was based on [Udemy's](https://www.udemy.com/course/build-your-first-react-js-application/) React foundational course..
+
 ## Available Scripts
 
 In the project directory, you can run:
